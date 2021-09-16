@@ -1,2 +1,5 @@
 # Predict-Trig-Function
-Predicts the sin() curve using simple neural network 
+
+In this project, I simply predicted the y = sin(x) function using simple neural network. 
+
+
